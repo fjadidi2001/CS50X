@@ -1,11 +1,11 @@
 # review
 ### input
-char => getchar()
-string(an ordered sequence of characters) => gets()
+char => getchar()<br>
+string(an ordered sequence of characters) => gets()<br>
 ================================================================
 ### output
-single char  =>  putchar()
-string(an ordered sequence of characters) => puts()
+single char  =>  putchar() <br>
+string(an ordered sequence of characters) => puts()<br>
 =================================================================
 ### specifiers
 > Format specifiers begin with a percent sign % and are used to assign values to corresponding arguments after the control string. Blanks, tabs, and newlines are ignored.

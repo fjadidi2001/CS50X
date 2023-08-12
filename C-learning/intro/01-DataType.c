@@ -7,5 +7,7 @@ int main()
     printf("char: %ld", sizeof(char));
     return 0;
 
+// The program output displays the corresponding size in bytes for each data type.
 
+// format specifier (%ld)
 }

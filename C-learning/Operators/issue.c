@@ -6,4 +6,5 @@ int main()
     x++;
     x+=y--;
     printf("%d", x);
+// why output is 16?
 }

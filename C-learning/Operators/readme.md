@@ -14,10 +14,10 @@ average = (float) total / count;
 
 
 <br>
- - x+=y
- - x/=y
- - z--
- - z++
+1. x+=y
+2. x/=y
+3. z--
+4. z++
 <br>
 
 ```

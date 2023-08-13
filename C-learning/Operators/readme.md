@@ -11,3 +11,17 @@ int total = 23;
 int count = 4;
 average = (float) total / count;
 ```
+
+
+<br>
+ - x+=y
+ - x/=y
+ - z--
+ - z++
+<br>
+```
+z = 3;
+x = z--;  /* assign 3 to x, then decrement z to 2 */
+y = 3;
+x = ++y;  /* increment y to 4, then assign 4 to x */
+```

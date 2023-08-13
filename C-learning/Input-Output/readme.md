@@ -78,6 +78,13 @@ e scientific notation
 
 x hexadecimal
 
+> To print the % symbol, use %% in the format string.
 
 ================================================================
 
+
+
+# comment
+<br>
+single line comment => //
+multiple line comment => /* */

@@ -51,4 +51,33 @@ x hexadecimal
 
 ================================================================
 
+```
+%[-][width].[precision]conversion character
+
+```
+
+> The optional - specifies left alignment of the data in the string.
+
+The optional width gives the minimum number of characters for the data.
+
+The period . separates the width from the precision.
+
+The optional precision gives the number of decimal places for numeric data. If s is used as the conversion character, then precision determines the number of characters to print.
+
+The conversion character converts the argument, if necessary, to the indicated type:
+
+d decimal
+
+c character
+
+s string
+
+f float
+
+e scientific notation
+
+x hexadecimal
+
+
+================================================================
 

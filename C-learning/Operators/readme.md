@@ -19,6 +19,7 @@ average = (float) total / count;
  - z--
  - z++
 <br>
+
 ```
 z = 3;
 x = z--;  /* assign 3 to x, then decrement z to 2 */

@@ -20,3 +20,7 @@ An expression that evaluates to a non-zero value is considered true.
 
 <br>
 in C, you cannot compare strings using the == operator directly. You need to use the strcmp() function from the string.h library.<br>
+### Conditional Expressions 
+<br>
+Another way to form an if-else statement is by using the ?: operator in a conditional expression. The ?: operator can have only one statement associated with the if and the else.
+

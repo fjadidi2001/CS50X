@@ -13,3 +13,8 @@ There are six relational operators that can be used to form a Boolean expression
 5. ==  equal to
 
 6. !=   not equal to
+
+
+<br>
+An expression that evaluates to a non-zero value is considered true.
+

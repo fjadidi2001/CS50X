@@ -3,8 +3,8 @@ int main()
 {
 
     char name[20];
-    puts( name);
-    if (name == "fateme")
+    gets(name);
+    if (name == "   ")
     {
         printf("%s is string", name);
     }

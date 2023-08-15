@@ -18,3 +18,5 @@ There are six relational operators that can be used to form a Boolean expression
 <br>
 An expression that evaluates to a non-zero value is considered true.
 
+<br>
+in C, you cannot compare strings using the == operator directly. You need to use the strcmp() function from the string.h library.<br>

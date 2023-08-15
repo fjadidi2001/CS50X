@@ -2,14 +2,14 @@
 int main()
 {
 
-    char f[250];
-    scanf("%s", f);
-    if (f == "fateme")
+    char name[20];
+    puts( name);
+    if (name == "fateme")
     {
-        printf("f is fateme");
+        printf("%s is string", name);
     }
     else
     {
-        printf("f is another thing");
+        printf("%s is another datatype", name);
     }
 }  

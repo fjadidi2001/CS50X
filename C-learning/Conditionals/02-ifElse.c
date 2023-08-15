@@ -1,15 +1,20 @@
 #include <stdio.h>
 int main()
 {
-
-    char name[20];
-    gets(name);
-    if (name == "   ")
+    int num1 = 45, num2;
+    scanf("%d", &num2);
+    if (num1 > num2)
     {
-        printf("%s is string", name);
+        printf("num1 grater than num1. ");
+    }
+    else if (num1 == num2)
+    {
+        printf("num1 == num2");
     }
     else
     {
-        printf("%s is another datatype", name);
+        printf("num2 > num1. ");
     }
-}  
+    
+
+}

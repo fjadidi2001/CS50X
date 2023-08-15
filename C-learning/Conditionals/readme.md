@@ -24,3 +24,7 @@ in C, you cannot compare strings using the == operator directly. You need to use
 <br>
 Another way to form an if-else statement is by using the ?: operator in a conditional expression. The ?: operator can have only one statement associated with the if and the else.
 
+<br>
+### Nested if Statements <br>
+An if statement can include another if statement to form a nested statement. Nesting an if allows a decision to be based on further requirements. 
+

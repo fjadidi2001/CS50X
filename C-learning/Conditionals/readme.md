@@ -38,6 +38,7 @@ An if statement can include another if statement to form a nested statement. Nes
 ## switch
 
 <br>
+
 > The switch statement branches program control by matching the result of an expression with a constant case value. 
  The switch statement often provides a more elegant solution to if-else if and nested if statements
 

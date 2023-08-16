@@ -34,7 +34,6 @@ Another way to form an if-else statement is by using the ?: operator in a condit
 <br>
 An if statement can include another if statement to form a nested statement. Nesting an if allows a decision to be based on further requirements. 
 
-============================================================
 
 ## switch
 

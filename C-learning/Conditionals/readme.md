@@ -19,13 +19,19 @@ There are six relational operators that can be used to form a Boolean expression
 An expression that evaluates to a non-zero value is considered true.
 
 <br>
-in C, you cannot compare strings using the == operator directly. You need to use the strcmp() function from the string.h library.<br>
+in C, you cannot compare strings using the == operator directly. You need to use the strcmp() function from the string.h library.
+
+<br>
+
 ### Conditional Expressions 
 <br>
+
 Another way to form an if-else statement is by using the ?: operator in a conditional expression. The ?: operator can have only one statement associated with the if and the else.
 
 <br>
-### Nested if Statements <br>
+
+### Nested if Statements 
+<br>
 An if statement can include another if statement to form a nested statement. Nesting an if allows a decision to be based on further requirements. 
 
 ============================================================
@@ -33,9 +39,8 @@ An if statement can include another if statement to form a nested statement. Nes
 ## switch
 
 <br>
->The switch statement branches program control by matching the result of an expression with a constant case value. 
-
-The switch statement often provides a more elegant solution to if-else if and nested if statements
+> The switch statement branches program control by matching the result of an expression with a constant case value. 
+ The switch statement often provides a more elegant solution to if-else if and nested if statements
 
 <br>
 
@@ -52,6 +57,7 @@ switch (expression) {
 }
 ```
 <br>
+
 ## The switch Statement 
 > There can be multiple cases with unique labels.
 

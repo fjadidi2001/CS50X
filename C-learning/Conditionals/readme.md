@@ -51,3 +51,12 @@ switch (expression) {
     statements
 }
 ```
+<br>
+## The switch Statement 
+> There can be multiple cases with unique labels.
+
+    The optional default case is executed when no other matches are made.
+
+    A break statement is needed in each case to branch to the end of the switch statement.
+
+    Without the break statement, program execution falls through to the next case statement. This can be useful when the same statement is needed for several cases.

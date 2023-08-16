@@ -28,3 +28,26 @@ Another way to form an if-else statement is by using the ?: operator in a condit
 ### Nested if Statements <br>
 An if statement can include another if statement to form a nested statement. Nesting an if allows a decision to be based on further requirements. 
 
+============================================================
+
+## switch
+
+<br>
+>The switch statement branches program control by matching the result of an expression with a constant case value. 
+
+The switch statement often provides a more elegant solution to if-else if and nested if statements
+
+<br>
+
+```
+switch (expression) {
+  case val1:
+    statements
+  break;
+  case val2:
+    statements
+  break;
+  default:
+    statements
+}
+```

@@ -1,18 +1,18 @@
 #include <stdio.h>
 int main(){
-    int count = 10;
-    while (count < 20)
+    int count = 15;
+    while (count > 0)
     {
 
         /* code */
-        if (count == 10)
+        if (count == 10 && count == 1)
             break;
-        if (count == 15)
+        if (count == 5)
             continue;
 
 
         
-        printf("%d", count);
+        printf("%d\n", count);
         count--;
 
     }

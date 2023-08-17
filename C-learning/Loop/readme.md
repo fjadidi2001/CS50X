@@ -26,3 +26,12 @@ do {
 
 > The expression evaluates to either true or false, and  statements can be a single statement or a code block enclosed by curly braces { }.
 
+<br>
+
+## break and continue 
+
+The break statement was introduced for use in the switch statement. It is also useful for immediately exiting a loop.
+
+<br>
+
+When you want to remain in the loop, but skip ahead to the next iteration, you use the continue statement.

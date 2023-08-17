@@ -35,3 +35,23 @@ The break statement was introduced for use in the switch statement. It is also u
 <br>
 
 When you want to remain in the loop, but skip ahead to the next iteration, you use the continue statement.
+
+<br>
+
+## the for loop
+
+> The for statement is a loop structure that executes statements a fixed number of times. 
+
+```
+for (initvalue; condition; increment) {
+  statements;
+}
+```
+
+<br>
+
+- The initvalue is a counter set to an initial value. This part of the for loop is performed only once.
+
+- The condition is a Boolean expression that compares the counter to a value before each loop iteration, stopping the loop when false is returned.
+
+- The increment increases (or decreases) the counter by a set value.

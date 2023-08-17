@@ -55,3 +55,26 @@ for (initvalue; condition; increment) {
 - The condition is a Boolean expression that compares the counter to a value before each loop iteration, stopping the loop when false is returned.
 
 - The increment increases (or decreases) the counter by a set value.
+
+<br>
+
+**The for loop can contain multiple expressions separated by commas in each part.**
+
+
+```
+for (x = 0, y = num; x < y; i++, y--) { 
+  statements; 
+}
+```
+
+<br>
+
+loops can also be nested.
+<br>
+When writing a program this way, there is an outer loop and an inner loop. For each iteration of the outer loop the inner loop repeats its entire cycle.
+
+<br>
+
+A break in an inner loop exits that loop and execution continues with the outer loop.
+<br>
+A continue statement works similarly in nested loops.

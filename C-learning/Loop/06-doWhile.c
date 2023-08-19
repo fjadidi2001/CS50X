@@ -7,5 +7,5 @@ int main()
         printf("%d", c);
         c ++;
 
-    }while (c <= 5);
+    } while (c <= 5);
 }

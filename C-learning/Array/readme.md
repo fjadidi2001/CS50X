@@ -1,0 +1,5 @@
+An array is a data structure that stores a collection of related values that are all the same type
+
+<br>
+An array is stored in contiguous memory locations and cannot change size after being declared.
+

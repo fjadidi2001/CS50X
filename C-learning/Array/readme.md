@@ -11,3 +11,9 @@ The contents of an array are called elements with each element accessible by an 
 The value of an array element can be changed through an assignment statement, which also requires using the array name and index:
 
 
+<br>
+
+# Using Loops with Arrays 
+Many algorithms require accessing every element of an array to check for data, store information, and other tasks. This can be done in a process called traversing the array, which is often implemented with a for loop because the loop control variable naturally corresponds to array indexes.
+
+<br>

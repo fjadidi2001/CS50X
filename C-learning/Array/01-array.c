@@ -6,7 +6,7 @@ int main()
     int array3[5] = {3, 5,1}; //Missing values are set to 0.
     printf("The second element is %4.2f\n", array2[4]);
     array2[1] = 4.125;
-    printf("The element change to new number %d\n", array2[1]);
-    
+    printf("The element change to new number %.2f\n", array2[1]);
+
 
 }

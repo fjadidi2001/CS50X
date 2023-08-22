@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int arr[1][1] = {
+    int arr[2][2] = {
         {1, 2},
         {3, 4}
     };

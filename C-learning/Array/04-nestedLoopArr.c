@@ -8,8 +8,8 @@ int main() {
     
     int k, j;
     /* display array contents */
-    for (k = 0; k < 2; k++) {
-        for (j = 0; j < 3; j++) {
+    for (k = 0; k < 2; k++) { //row
+        for (j = 0; j < 3; j++) { //column
             printf(" %d", a[k][j]);
         }
         printf("\n");

@@ -26,3 +26,15 @@ can be thought of as a table. You can also think of a two-dimensional array as a
 An array can have more than two dimensions. For example, a[5][3][4] is an array that has 5 elements that each store 3 elements that each store 4 elements.
 
 <br>
+
+imp point:<br>
+
+**To access an element of a two-dimensional array, both the row index and column index are required.**
+
+<br>
+
+```
+printf("Element 3 in row 2 is %d\n", a[1][2]);
+```
+
+

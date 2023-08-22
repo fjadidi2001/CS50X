@@ -38,3 +38,4 @@ printf("Element 3 in row 2 is %d\n", a[1][2]);
 ```
 
 
+![read-element](./2D-arrays.png)

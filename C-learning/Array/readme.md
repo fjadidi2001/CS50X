@@ -17,3 +17,8 @@ The value of an array element can be changed through an assignment statement, wh
 Many algorithms require accessing every element of an array to check for data, store information, and other tasks. This can be done in a process called traversing the array, which is often implemented with a for loop because the loop control variable naturally corresponds to array indexes.
 
 <br>
+
+> **A two-dimensional array** is an array of arrays and 
+can be thought of as a table. You can also think of a two-dimensional array as a grid for representing a chess board, city blocks, and much more. 
+
+<br>

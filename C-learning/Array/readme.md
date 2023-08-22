@@ -22,3 +22,7 @@ Many algorithms require accessing every element of an array to check for data, s
 can be thought of as a table. You can also think of a two-dimensional array as a grid for representing a chess board, city blocks, and much more. 
 
 <br>
+
+An array can have more than two dimensions. For example, a[5][3][4] is an array that has 5 elements that each store 3 elements that each store 4 elements.
+
+<br>

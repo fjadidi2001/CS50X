@@ -60,5 +60,11 @@ ptr = &p;
  <br>
 You can also use the ==, <, and > operators to compare pointer addresses.
 
+### pointers & function
+
+<br>
 
 
+Pointers greatly expand the possibilities for functions. No longer are we limited to returning one value. With pointer parameters, your functions can alter actual data rather than a copy of data. 
+
+To change the actual values of variables, the calling statement passes addresses to pointer parameters in a function. 

@@ -20,3 +20,28 @@ pointer_type is the type of data the pointer will be pointing to. The actual poi
 
 <br>
 Asterisk * declares a pointer and should appear next to the identifier used for the pointer variable.
+
+<br>
+
+There are several things to notice about this program:
+
+• Pointers should be initialized to NULL until they are assigned a valid location.
+
+• Pointers can be assigned the address of a variable using the ampersand & sign.
+
+• To see what a pointer is pointing to, use the * again, as in *p. In this case the * is called the indirection or dereference operator. The process is called dereferencing.
+
+<br>
+Some algorithms use a pointer to a pointer. This type of variable declaration uses **, and can be assigned the address of another pointer, as in:
+
+```
+int x = 12;
+
+int *p = NULL
+
+int **ptr = NULL;
+
+p = &x;
+
+ptr = &p;
+```

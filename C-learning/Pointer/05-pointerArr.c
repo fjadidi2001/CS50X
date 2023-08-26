@@ -1,11 +1,12 @@
 #include <stdio.h>
-int main()
-{
-    int arr[5] = {1, 45, 20, 7, 0};
+
+int main() {
+    int a[5] = {22, 33, 44, 55, 66};
     int *ptr = NULL;
     int i;
-    ptr = arr;
-    for (i = 0; i < 5; i++){
-        printf("%d", *(ptr + i));
+    
+    ptr = a;
+    for (i = 0; i < 5; i++) {
+        printf("%d ", *(ptr + i));
     }
 }

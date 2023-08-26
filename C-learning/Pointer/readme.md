@@ -51,3 +51,14 @@ ptr = &p;
  + is used to move forward to a memory location
 
  - is used to move backward to a memory location
+
+ <br>
+
+ ### More Address Arithmetic 
+
+ Address arithmetic can also be thought of as pointer arithmetic because the operations involve pointers.
+ <br>
+You can also use the ==, <, and > operators to compare pointer addresses.
+
+
+

@@ -5,7 +5,7 @@ void test(int k);
 int main() {
     int i = 0;
     
-    printf("The address of i is %x\n", &i);
+    printf("The address of i is %x\n", &i); //%x is the hex format specifier
     test(i);
     printf("The address of i is %x\n", &i);
     test(i);

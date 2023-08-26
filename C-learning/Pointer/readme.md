@@ -45,3 +45,9 @@ p = &x;
 
 ptr = &p;
 ```
+
+> Pointers are especially useful with arrays. An array declaration reserves a block of contiguous memory addresses for its elements. With pointers, we can point to the first element and then use address arithmetic to traverse the array:
+
+ + is used to move forward to a memory location
+
+ - is used to move backward to a memory location

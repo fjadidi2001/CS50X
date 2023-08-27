@@ -51,6 +51,10 @@ input => id
 <br>
 input => name
 <br>
+select => name, id
+<br>
+label => for(in select)
+option => value
 An HTML form is a convenient way to send data to a database hosted in a server.
 
 <br>
@@ -68,5 +72,8 @@ Drop-down menus make your forms more efficient, accessible, and organized.
 You can use the "select" container tag to create a drop-down list.
 <br>
 The "option" container tag is used inside a "select" tag to add choices for the user.
+
+<br>
+Submitting a form sends information to a database. The name attribute is needed to submit the form data.
 
 

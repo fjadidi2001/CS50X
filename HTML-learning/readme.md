@@ -40,6 +40,33 @@ You might want to add a link at the bottom of a long single-page website to take
 
 <br>
 
-Forms are made of input elements like text fields, checkboxes, and submit buttons. These input elements are nested inside the <form> container tag.
+Forms are made of input elements like text fields, checkboxes, and submit buttons. These input elements are nested inside the "form" container tag.
+<br>
+
+Labels can be added for the different input elements with the label tag.
+
+label => for
+<br>
+input => id
+<br>
+input => name
+<br>
+An HTML form is a convenient way to send data to a database hosted in a server.
+
+<br>
+The name attribute is used to reference the data after submitting the form 
+
+
+
+<br>
+The value attribute defines the value that is submitted when the input is selected.
+
+<br>
+
+Drop-down menus make your forms more efficient, accessible, and organized.
+
+You can use the "select" container tag to create a drop-down list.
+<br>
+The "option" container tag is used inside a "select" tag to add choices for the user.
 
 

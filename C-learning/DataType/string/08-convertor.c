@@ -7,6 +7,8 @@ int main()
   printf("Enter a number: ");
   gets(input);
   num = atoi(input);
+  printf("You entered %d", num);
+
 
   return 0;
 }

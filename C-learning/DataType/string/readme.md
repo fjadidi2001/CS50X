@@ -32,5 +32,9 @@
 8. scanf() stops reading input when it reaches a space. To read a string with spaces, use the gets() function. It reads input until a terminating newline is reached (the Enter key is pressed).
 
 9. A safer alternative to gets() is fgets(), which reads up to a specified number of characters. This approach helps prevent a buffer overflow, which happens when the string array isn't big enough for the typed text.
+**fgets() reads only n-1 characters from stdin because there must be room for '\0'.**
 
+# string output
+
+The fputs() requires the name of the string and a pointer to where you want to print the string. To print to the screen, use stdout which refers to the standard output. 
 

@@ -102,3 +102,6 @@ Just like video, the "source" tag is used to add source options for audio.
 <br>
 Just like video, the src attribute adds the audio file URL. The type attribute adds the format.
 
+<br>
+You can use autoplay, muted and loop attributes to control the behavior of the multimedia element. Just like controls, these attributes have their default values omitted.
+

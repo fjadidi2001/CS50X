@@ -126,7 +126,28 @@ The body of a web page can be divided into 3 parts.
 **header, main and footer elements are nested inside the body container tag**
 
 <br>
-article represents an independent, self-contained piece of content.An article is content that would make sense on its own.The article tag clearly indicates the role for its content. It’s used for content like news stories, and blog posts.
+
+#### article:
+1. represents an independent, self-contained piece of content.
+2. content that would make sense on its own.
+3. clearly indicates the role for its content.
+4. used for content like news stories, and blog posts.
+<br>
+Layout tags like header>, main>, footer> and article> are semantic tags because they give information about what they contain.
+<br>
+
+#### section: 
+1. helps to break down the content into parts.
+2. semantic tag
+3. It usually includes a heading.
+<br>
+
+
+#### aside:
+1. used for secondary, additional or somehow related content.
+
+
+**Semantic tags don’t give any visual effect to the content. You can nest layout elements to create organized and accessible pages.**
 
 
 

@@ -41,3 +41,8 @@ The fputs() requires the name of the string and a pointer to where you want to p
 <br>
 The puts() function takes only a string argument and can also be used to display output. However, it adds a newline to output.
 
+# string function
+
+- A formatted string can be created with the sprintf() function. This is useful for building a string from other data types.
+
+- 

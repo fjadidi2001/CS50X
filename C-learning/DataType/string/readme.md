@@ -27,3 +27,7 @@
 
     - strcmp() - compare two strings
 
+<br>
+
+8. scanf() stops reading input when it reaches a space. To read a string with spaces, use the gets() function. It reads input until a terminating newline is reached (the Enter key is pressed).
+

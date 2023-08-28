@@ -12,12 +12,18 @@
 
 6. A string pointer declaration such as char *str = "stuff"; is considered a constant and cannot be changed from its initial value.
 
-7. To safely and conveniently operate with strings, you can use the Standard Library string functions shown below. Don't forget to include "string.h".
-    - strlen() - get length of a string
+7. The string.h library contains numerous string functions. 
 
-    - strcat() - merge two strings
 
-    - strcpy() - copy one string to another
+    - strlen() - get length of a string , not including the NULL character
+
+    - strcat() - merge two strings:
+    strcat(str1, str2) Appends (concatenates) str2 to the end of str1 and returns a pointer to str1.
+
+
+
+    - strcpy() - copy one string to another:
+    strcpy(str1, str2) Copies str2 to str1. This function is useful for assigning a string a new value.
 
     - strlwr() - convert string to lower case
 
@@ -51,3 +57,6 @@
 - for scanning a string for values. 
 - reads values from a string and stores them at the corresponding variable addresses.
 <br>
+
+#### string.h
+1. strlen(str): 

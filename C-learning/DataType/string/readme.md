@@ -33,6 +33,19 @@
 
     - strcmp() - compare two strings
 
+    - strncat(str1, str2, n) Appends (concatenates) first n characters of str2 to the end of str1 and returns a pointer to str1.
+
+    - strncpy(str1, str2, n) Copies the first n characters of str2 to str1.
+
+    - strcmp(str1, str2) Returns 0 when str1 is equal to str2, less than 0 when str1 < str2, and greater than 0 when str1 > str2.
+
+    - strncmp(str1, str2, n) Returns 0 when the first n characters of str1 is equal to the first n characters of str2, less than 0 when str1 < str2, and greater than 0 when str1 > str2.
+
+    - strchr(str1, c) Returns a pointer to the first occurrence of char c in str1, or NULL if character not found.
+
+    - strrchr(str1, c) Searches str1 in reverse and returns a pointer to the position of char c in str1, or NULL if character not found.
+
+    - strstr(str1, str2) Returns a pointer to the first occurrence of str2 in str1, or NULL if str2 not found.
 <br>
 
 8. scanf() stops reading input when it reaches a space. To read a string with spaces, use the gets() function. It reads input until a terminating newline is reached (the Enter key is pressed).
@@ -58,5 +71,14 @@
 - reads values from a string and stores them at the corresponding variable addresses.
 <br>
 
-#### string.h
-1. strlen(str): 
+## Converting a String to a Number 
+<br>
+
+#### int atoi(str):
+  Stands for ASCII to integer. Converts str to the equivalent int value.
+ 
+ #### double atof(str):
+ Stands for ASCII to float. Converts str to the equivalent double value.
+
+#### long int atol(str):
+ Stands for ASCII to long int. Converts str to the equivalent long integer value.

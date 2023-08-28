@@ -92,3 +92,4 @@ A two-dimensional array can be used to store related strings.
 
 <br>
 
+**that a declaration like char *items[3]; only reserves space for three pointers; the actual strings are being referenced by those pointers.**

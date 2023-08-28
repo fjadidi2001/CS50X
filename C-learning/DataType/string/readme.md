@@ -85,3 +85,10 @@
 
 
  **Note, that atoi() lacks error handling, and it is recommended to use strtol() if you want to make sure that proper error handling is done.**
+
+
+ ## Array of strings
+A two-dimensional array can be used to store related strings. 
+
+<br>
+

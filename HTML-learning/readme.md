@@ -154,3 +154,25 @@ Layout tags like header>, main>, footer> and article> are semantic tags because 
 
 
 <br>
+The style attribute can make your life a whole lot easier when it comes to formatting. You can customize multiple properties at the same time. Just separate each property:value pair with a semicolon (;).
+
+<br>
+You can control the font size with the font-size property.
+
+<br>
+```
+<h1 style="text-align:left; font-size:small">Some text</h1>
+```
+
+Some style properties require multiple values. The border property is an example of that
+<br>
+The border property is a short and simple way to refer to 3 different sub-properties. That’s why it can take 3 values.
+<br>
+```
+<p style="border:1px solid red">
+Some text</p>
+```
+<br>
+- border-width
+- border-style
+- border-color

@@ -82,3 +82,6 @@
 
 #### long int atol(str):
  Stands for ASCII to long int. Converts str to the equivalent long integer value.
+
+
+ **Note, that atoi() lacks error handling, and it is recommended to use strtol() if you want to make sure that proper error handling is done.**

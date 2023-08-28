@@ -36,14 +36,18 @@
 
 # string output
 
-The fputs() requires the name of the string and a pointer to where you want to print the string. To print to the screen, use stdout which refers to the standard output. 
+#### fputs()
+- requires the name of the string and a pointer to where you want to print the string.
+- To print to the screen, use stdout which refers to the standard output. 
 
-<br>
-The puts() function takes only a string argument and can also be used to display output. However, it adds a newline to output.
+#### puts()
+- takes only a string argument and can also be used to display output. However, it adds a newline to output.
 
 # string function
-
-- A formatted string can be created with the sprintf() function. This is useful for building a string from other data types.
-
-- Another useful function is sscanf() for scanning a string for values. The function reads values from a string and stores them at the corresponding variable addresses.
-
+#### sprintf() 
+- A formatted string can be created with the function.
+- useful for building a string from other data types.
+#### sscanf()
+- for scanning a string for values. 
+- reads values from a string and stores them at the corresponding variable addresses.
+<br>

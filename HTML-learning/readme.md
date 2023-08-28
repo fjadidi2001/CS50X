@@ -104,4 +104,32 @@ Just like video, the src attribute adds the audio file URL. The type attribute a
 
 <br>
 You can use autoplay, muted and loop attributes to control the behavior of the multimedia element. Just like controls, these attributes have their default values omitted.
+<br>
 
+## Page layout
+The body of a web page can be divided into 3 parts.
+
+1. header : The "header" container tag usually contains introductory information. You can add several header elements to a web page.The header often contains navigation links, a menu and/or a search bar. Brand elements like logos are usually found in the header too.
+
+
+
+
+
+
+2. main content : The "main" container tag is used to include the main content of a web page. There must not be more than one "main" element in a document.
+
+
+
+
+3. footer : The "footer" container tag often contains contact and legal information and links.You can have several "footer" elements in one document.
+
+**header, main and footer elements are nested inside the body container tag**
+
+<br>
+article represents an independent, self-contained piece of content.An article is content that would make sense on its own.The article tag clearly indicates the role for its content. It’s used for content like news stories, and blog posts.
+
+
+
+
+
+<br>

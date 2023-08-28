@@ -93,3 +93,12 @@ type="video/mp4">
 <br>
 You can display play/pause, volume and other video controls with the controls attribute.
 
+<br>
+You can embed audio files into web pages with the "audio" container tag.
+
+<br>
+Just like video, the "source" tag is used to add source options for audio.
+
+<br>
+Just like video, the src attribute adds the audio file URL. The type attribute adds the format.
+

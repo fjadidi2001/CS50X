@@ -77,3 +77,19 @@ The "option" container tag is used inside a "select" tag to add choices for the 
 Submitting a form sends information to a database. The name attribute is needed to submit the form data.
 
 
+<br>
+You can use the "video" container tag to embed video files into a web page.
+
+<br>
+You can add video files in different formats. Common video formats are: MP4, OGG and WebM.
+
+```
+<video>
+<source src="file.mp4"
+type="video/mp4">
+</video>
+
+```
+<br>
+You can display play/pause, volume and other video controls with the controls attribute.
+

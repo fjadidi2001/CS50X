@@ -176,3 +176,30 @@ Some text</p>
 - border-width
 - border-style
 - border-color
+
+<br>
+
+Every HTML element is either inline(Don't start on a new line) or block(Start on a new line).
+
+inline => p, format tags, button
+
+
+<br>
+Inline elements can be nested inside block-level elements.
+
+<br>
+
+<h3>The "div" element is a container for HTML elements that keeps your pages organized
+
+</h3>
+
+You can use "div" to apply the same style to a group of elements
+<br>
+The style in a "div" container will apply to all its nested elements unless you give them their own.
+<br>
+
+<div strle = "text-align : center"> 
+
+![block-level tags](block.png)
+
+</div>

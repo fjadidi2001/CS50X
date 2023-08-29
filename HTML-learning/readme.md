@@ -203,3 +203,9 @@ The style in a "div" container will apply to all its nested elements unless you 
 ![block-level tags](block.png)
 
 </div>
+
+
+## semantic tags
+<br>
+
+![semantic tags](semantic.png)

@@ -21,3 +21,10 @@ An array of function pointers can replace a switch or an if statement for choosi
 A void pointer is used to refer to any address type in memory and has a declaration that looks like:
 
 <i>void *ptr;</i>
+
+<br>
+
+When dereferencing a void pointer, you must first type cast the pointer to the appropriate data type before dereferencing with *.
+<br>
+You cannot perform pointer arithmetic with void pointers.
+

@@ -6,6 +6,8 @@ int main()
  
     // void pointer holds address of int 'a'
     void* p = &a;
+    printf(p);
     // void pointer holds address of char 'b'
     p = &b;
+    printf(p);
 }

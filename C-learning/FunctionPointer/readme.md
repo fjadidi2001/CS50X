@@ -28,3 +28,19 @@ When dereferencing a void pointer, you must first type cast the pointer to the a
 <br>
 You cannot perform pointer arithmetic with void pointers.
 
+<br>
+
+## Functions Using void Pointers 
+
+Void pointers are often used for function declarations. 
+```
+void * square (const void *); 
+
+```
+Using a void * return type allows for any return type. Similarly, parameters that are void * accept any argument type. If you want to use the data passed in by the parameter without changing it, you declare it const.
+
+
+<br>
+
+You can leave out the parameter name to further insulate the declaration from its implementation. Declaring a function this way allows the definition to be customized as needed without having to change the declaration.
+

@@ -51,3 +51,7 @@ You can leave out the parameter name to further insulate the declaration from it
 
 # Void Functions:
 In C, a void function is a function that doesn't return a value or returns void. They are typically used when you need to perform an action but don't need to return any data. 
+
+# Void Pointer:
+A void pointer, often referred to as a void*, is a special type of pointer in C that doesn't have a specific data type associated with it. It can point to objects of any data type. Void pointers are used when you need a flexible way to work with data of different types or when you're dealing with memory allocation and manipulation functions like malloc and free.
+

@@ -229,3 +229,10 @@ Tables usually include headers. A header is a special row at the top of the tabl
 
 You can create header cells with "th"
 
+<br>
+
+You can make cells that take up multiple rows and/or columns, using the attributes colspan and rowspan. This is called merging cells.
+
+ 
+
+colspan is for the number of columns a cell should span.

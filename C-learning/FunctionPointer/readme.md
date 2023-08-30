@@ -55,3 +55,4 @@ In C, a void function is a function that doesn't return a value or returns void.
 # Void Pointer:
 A void pointer, often referred to as a void*, is a special type of pointer in C that doesn't have a specific data type associated with it. It can point to objects of any data type. Void pointers are used when you need a flexible way to work with data of different types or when you're dealing with memory allocation and manipulation functions like malloc and free.
 
+> one important thing to note is that you can't directly dereference a void pointer because the compiler doesn't know the data type it points to. If you want to access the data pointed to by a void pointer, you need to cast it to the appropriate data type.

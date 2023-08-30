@@ -1,3 +1,6 @@
+
+
+
 Since pointers can point to an address in any memory location, they can also point to the start of executable code. 
 
 <br>
@@ -44,3 +47,7 @@ Using a void * return type allows for any return type. Similarly, parameters tha
 
 You can leave out the parameter name to further insulate the declaration from its implementation. Declaring a function this way allows the definition to be customized as needed without having to change the declaration.
 
+<br>
+
+# Void Functions:
+In C, a void function is a function that doesn't return a value or returns void. They are typically used when you need to perform an action but don't need to return any data. 

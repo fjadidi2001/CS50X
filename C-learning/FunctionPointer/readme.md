@@ -13,3 +13,11 @@ A function name points to the start of executable code, just as an array name po
 
 # Array of Function Pointers 
 An array of function pointers can replace a switch or an if statement for choosing an action
+
+<br>
+
+# void pointer
+
+A void pointer is used to refer to any address type in memory and has a declaration that looks like:
+
+<i>void *ptr;</i>

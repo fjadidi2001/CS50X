@@ -1,4 +1,7 @@
 # pointer
+
+A pointer is a variable that stores the memory address of another variable
+
 <br>
 
 > C is designed to be a low-level language that can easily access memory locations and perform memory-related operations. 

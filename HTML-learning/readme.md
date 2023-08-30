@@ -209,3 +209,23 @@ The style in a "div" container will apply to all its nested elements unless you 
 <br>
 
 ![semantic tags](semantic.png)
+
+
+<br>
+Tables help you display data in a way that’s easy to scan, compare, and analyze.
+<br>
+You can add a table to your web page with the "table" container tag
+
+
+<br>
+You can add rows to a table with the "tr" (table row) container tag. Rows are nested inside the "table" tag.
+
+<br>
+You can add cells with the "td" (table data) container tag. They are nested inside rows.
+<br>
+Tables usually include headers. A header is a special row at the top of the table used to label each column. 
+
+ 
+
+You can create header cells with "th"
+

@@ -236,3 +236,8 @@ You can make cells that take up multiple rows and/or columns, using the attribut
  
 
 colspan is for the number of columns a cell should span.
+
+<br>
+
+The rowspan attribute specifies the number of rows a cell should span. You can use rowspan to merge cells vertically.
+

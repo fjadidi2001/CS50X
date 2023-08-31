@@ -68,3 +68,25 @@ printf("Value: %d\n", value);
 
 
 ```
+
+
+<br>
+
+## Function Pointers as Arguments 
+A function pointer used as an argument is sometimes referred to as a callback function because the receiving function "calls it back". 
+like:
+stdlib.h => qsort() =>Quicksort is a widely used algorithm for sorting an array
+<br>
+
+```
+void qsort(void *base, size_t num, size_t width, 
+    int (*compare)(const void *, const void *))
+```
+
+- void *base A void pointer to the array.
+
+- size_t num The number of elements in the array.
+
+- size_t width The size of an element.
+
+- int (*compare (const void *, const void *) A function pointer which has two arguments and returns 0 when the arguments have the same value, <0 when arg1 comes before arg2, and >0 when arg1 comes after arg2.

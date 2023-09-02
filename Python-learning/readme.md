@@ -7,3 +7,6 @@ A variable name can contain numbers but cannot start with a number.
 ## input
 The input() instruction is the easiest way to allow a user to insert a value into your program.
 
+## output
+An output is a way for the computer to communicate with the outside world. A message displayed on the screen and the sound from a speaker are examples of outputs.
+

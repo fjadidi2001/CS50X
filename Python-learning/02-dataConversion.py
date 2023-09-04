@@ -10,3 +10,7 @@ print(type(b))
 c = 2.9
 d = str(c)
 print(type(d))
+
+distance = 14
+units = 'km'
+print(str(distance) + units)

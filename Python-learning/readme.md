@@ -53,3 +53,8 @@ Comparison operations and Boolean values allow machines to make decisions.
 ![iteration](./img/ite.png)
 3. selection
 ![selection](./img/select.png)
+
+<br>
+
+# algorithm
+is a set of step-by-step instructions to complete a task, placed in a certain order.

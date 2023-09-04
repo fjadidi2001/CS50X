@@ -6,3 +6,7 @@ print(type(second))
 a = 2
 b = float(a)
 print(type(b))
+
+c = 2.9
+d = str(c)
+print(type(d))

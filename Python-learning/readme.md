@@ -28,3 +28,6 @@ The Boolean is a data type that only has two possible values: True or False.
 <br>
 This data type is named after George Boole, who created the theory that is the basis for modern computers.
 
+<br>
+Comparison operations and Boolean values allow machines to make decisions.
+

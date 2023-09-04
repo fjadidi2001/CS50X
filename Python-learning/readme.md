@@ -62,3 +62,6 @@ represented =>
 1. flowcharts
     - sequence
     - iteration
+2. pseudocode 
+    > simplified language that is a bit closer to a programming language.
+3. natural language

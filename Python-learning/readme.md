@@ -58,3 +58,7 @@ Comparison operations and Boolean values allow machines to make decisions.
 
 # algorithm
 is a set of step-by-step instructions to complete a task, placed in a certain order.
+represented =>
+1. flowcharts
+    - sequence
+    - iteration

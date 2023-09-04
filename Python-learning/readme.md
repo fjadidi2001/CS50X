@@ -22,12 +22,34 @@ implicit => 5/2"float", input()"str"
 
 <br>
 Computers use binary code to represent information. By turning switches ON and OFF, we change the information stored in a computer.
+<br><br>
 
+![logical](./img/logical.png)
 <br>
 The Boolean is a data type that only has two possible values: True or False.
 <br>
-This data type is named after George Boole, who created the theory that is the basis for modern computers.
+
+This data type is named after **George Boole**, who created the theory that is the basis for modern computers.
 
 <br>
 Comparison operations and Boolean values allow machines to make decisions.
 
+> and
+
+![and operations](./img/and.png)
+<br>
+
+> or
+
+![or operation](./img/or.png)
+
+> control flow
+
+![control flow](./img/control-flow.png)
+
+1. sequence
+![sequence](./img/seq.png)
+2. iteration
+![iteration](./img/ite.png)
+3. selection
+![selection](./img/select.png)

@@ -19,3 +19,7 @@ The input() instruction always turns the user input into a string, no matter wha
 explicit => int(),str(),float()
 <br>
 implicit => 5/2"float", input()"str"
+
+<br>
+Computers use binary code to represent information. By turning switches ON and OFF, we change the information stored in a computer.
+

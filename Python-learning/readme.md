@@ -14,3 +14,8 @@ An output is a way for the computer to communicate with the outside world. A mes
 The input() instruction always turns the user input into a string, no matter what the user enters.
 
 
+<br>
+
+explicit => int(),str(),float()
+<br>
+implicit => 5/2"float", input()"str"

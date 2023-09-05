@@ -165,3 +165,5 @@ Lists are mutable. This means you can change their values even after they've bee
 <br>
 Indexing also works with strings. You can use indexing to access individual characters in a string
 
+list => mutable
+string => immutable

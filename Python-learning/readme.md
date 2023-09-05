@@ -167,3 +167,12 @@ Indexing also works with strings. You can use indexing to access individual char
 
 list => mutable
 string => immutable
+
+<br>
+Both lists and strings are Python sequences. Which means that their content is ordered.
+<br>
+
+### slice
+list[0:2]
+The starting index is inclusive. The stopping index is exclusive.
+

@@ -16,3 +16,7 @@ age = 23
 country = "Iran"
 info = [name, age, country]
 print(info)
+
+products = ["juice", "chocolate", "water"]
+user_choice = 1
+print(products[user_choice])

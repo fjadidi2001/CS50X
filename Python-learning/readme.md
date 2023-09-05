@@ -145,3 +145,6 @@ You don’t know how many iterations: while loop
 
 You can use the elif statement (short for "else if") to check for more conditions if the first condition is not met.
 
+# list
+
+![list](./img/list.png)

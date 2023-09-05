@@ -65,3 +65,49 @@ represented =>
 2. pseudocode 
     > simplified language that is a bit closer to a programming language.
 3. natural language
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+A loop can repeat multiple statements. They all need to be indented.
+
+```
+print (5 == 5)
+print (5 == 7)
+print (5 != 7)
+print (5 != 5)
+print (5 <= 5)
+print (5 >= 5)
+```
+
+You know how many iterations: for loop
+You don’t know how many iterations: while loop

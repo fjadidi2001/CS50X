@@ -23,3 +23,8 @@ print(products[user_choice])
 
 choice = int(input())
 print(products[choice])
+
+
+
+colors = ['red', 'green', 'blue', 'yellow']
+print(colors[2:3])

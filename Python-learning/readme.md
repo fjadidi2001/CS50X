@@ -148,3 +148,17 @@ You can use the elif statement (short for "else if") to check for more condition
 # list
 
 ![list](./img/list.png)
+
+<br>
+
+Lists allow you to store a collection of multiple values in a single variable.
+<br>
+Lists can contain values of different data types.
+<br>
+You can place list items on separate lines to make the code easier to read.
+<br>
+Lists are ordered collections of items. You can access an item in a list using its position or index number.
+
+<br>
+Lists are mutable. This means you can change their values even after they've been created.
+

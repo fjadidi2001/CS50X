@@ -175,5 +175,5 @@ Both lists and strings are Python sequences. Which means that their content is o
 ### slice
 list[0:2]
 The starting index is inclusive. The stopping index is exclusive.
-
+<br>
 indexing from the end => negative indexing

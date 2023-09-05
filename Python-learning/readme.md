@@ -64,7 +64,7 @@ Comparison operations and Boolean values allow machines to make decisions.
 => loop
 <br>
 
-        - while
+        - while => while loops repeat code whilst a condition holds
 
         - for
 

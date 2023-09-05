@@ -20,3 +20,6 @@ print(info)
 products = ["juice", "chocolate", "water"]
 user_choice = 1
 print(products[user_choice])
+
+choice = int(input())
+print(products[choice])

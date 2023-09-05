@@ -48,11 +48,36 @@ Comparison operations and Boolean values allow machines to make decisions.
 ![control flow](./img/control-flow.png)
 
 1. sequence
+<br>
+
 ![sequence](./img/seq.png)
+
+<br>
+
 2. iteration
-![iteration](./img/ite.png)
+<br>
+
+![iteration](./img/ite.png) 
+<br>
+
+
+=> loop
+<br>
+
+        - while
+
+        - for
+
+<br>
 3. selection
+
+<br>
+
 ![selection](./img/select.png)
+
+Selection is like a fork in the road. It allows your programs to decide which path to take. =>if-else statements
+
+
 
 <br>
 

@@ -78,6 +78,8 @@ Comparison operations and Boolean values allow machines to make decisions.
 Selection is like a fork in the road. It allows your programs to decide which path to take. =>if-else statements
 
 
+**Conditional statements allow you to program machines that make decisions.**
+
 
 <br>
 

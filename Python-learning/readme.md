@@ -138,3 +138,10 @@ print (5 >= 5)
 
 You know how many iterations: for loop
 You don’t know how many iterations: while loop
+
+<br>
+
+![flow](./img/flow.png)
+
+You can use the elif statement (short for "else if") to check for more conditions if the first condition is not met.
+

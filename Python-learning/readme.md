@@ -176,3 +176,4 @@ Both lists and strings are Python sequences. Which means that their content is o
 list[0:2]
 The starting index is inclusive. The stopping index is exclusive.
 
+indexing from the end => negative indexing

@@ -218,3 +218,8 @@ Multiple arguments in a function are separated with a comma ,
 3. only runs when called
 ## custom function
 define once => call it as many times as you need
+
+
+<br>
+
+![return](./img/return.png)

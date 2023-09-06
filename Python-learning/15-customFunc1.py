@@ -18,8 +18,17 @@ personal_greet("Henry")
 
 
 #Define the function
-def double(number)
-print(number*2)
+def double(number):
+    print(number*2)
 
 #Call the function
 double(6)
+
+
+
+def bmi(weight, height):
+    index = weight / (height * height)
+    print(index)
+
+
+bmi(57, 170)

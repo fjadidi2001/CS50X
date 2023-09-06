@@ -209,5 +209,6 @@ Multiple arguments in a function are separated with a comma ,
     - len() => return length list
     - append() => add end of the list
     - insert() => add element to a list at a specific position
+    - pop() =>  removes an element from a list.
 
 

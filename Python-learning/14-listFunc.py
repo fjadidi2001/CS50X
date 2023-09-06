@@ -10,3 +10,6 @@ items = ["book", "pen", "pencil"]
 items.insert(2,"marker")
 print(items)
 print(items[2])
+items.pop(1)
+print(items)
+print(items[1])

@@ -15,3 +15,11 @@ def personal_greet(name):
 #function calls
 personal_greet("Sarah") 
 personal_greet("Henry")
+
+
+#Define the function
+def double(number)
+print(number*2)
+
+#Call the function
+double(6)

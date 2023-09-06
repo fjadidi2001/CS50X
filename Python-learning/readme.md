@@ -192,7 +192,8 @@ Multiple arguments in a function are separated with a comma ,
 <br>
  built-in function:
   Python has many built-in functions which you can re-use in your code by calling them.
-  - print() => any data type
+  arguments:
+  - print() => any data type , math, logical and comparison operations.
   - range() => just integer
   
 

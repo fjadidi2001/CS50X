@@ -213,6 +213,8 @@ Multiple arguments in a function are separated with a comma ,
 
 
 # function 
-Reusable block of code
+1. Reusable block of code
+2. performs a task
+3. only runs when called
 ## custom function
 define once => call it as many times as you need

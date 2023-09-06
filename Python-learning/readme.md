@@ -212,3 +212,7 @@ Multiple arguments in a function are separated with a comma ,
     - pop() =>  removes an element from a list.
 
 
+# function 
+Reusable block of code
+## custom function
+define once => call it as many times as you need

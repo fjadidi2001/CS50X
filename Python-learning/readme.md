@@ -205,5 +205,9 @@ Multiple arguments in a function are separated with a comma ,
 
 **find() will return -1 if the value can't be found in the string.**
 
+## list function
+    - len() => return length list
+    - append() => add end of the list
+    - insert() => add element to a list at a specific position
 
 

@@ -8,3 +8,5 @@ print("happy birthday".lower())
 print("happy birthday".capitalize())
 
 print("fateme".find("e"))
+
+print('fateme'.find("b"))

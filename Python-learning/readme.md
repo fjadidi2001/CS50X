@@ -177,3 +177,16 @@ list[0:2]
 The starting index is inclusive. The stopping index is exclusive.
 <br>
 indexing from the end => negative indexing
+
+# function
+
+![arg1](./img/arg1.png)
+
+<br><br>
+
+![arg2](./img/arg2.png)
+
+<br><br>
+
+Multiple arguments in a function are separated with a comma ,
+

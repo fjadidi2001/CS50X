@@ -197,4 +197,11 @@ Multiple arguments in a function are separated with a comma ,
   - range() => just integer
   
 
+<br>
+
+## string function
+
+> The find() function checks if a character (or a pattern of characters) is present in a string. The function returns the index (position) of the given value. If the given value is present multiple times, the function will return the first occurrence (the lowest index).
+
+
 

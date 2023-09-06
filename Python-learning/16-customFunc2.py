@@ -11,3 +11,17 @@ print("underweight:", patient_5 < 18.5)
 patient_7 = bmi(75, 1.74)
 print("underweight:", patient_7 < 18.5)
 
+
+
+#taking the weight as input
+weight = int(input())
+
+#complete the function
+def shipping_cost(weight):
+    index = weight * 5
+    print(index)
+
+     
+
+#function call
+shipping_cost(weight)

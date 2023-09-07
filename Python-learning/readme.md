@@ -234,3 +234,6 @@ define once => call it as many times as you need
 
 ![tuple](./img/tuple.png)
 
+<br>
+
+**Tuples can be created without the parentheses by just separating the values with commas.**

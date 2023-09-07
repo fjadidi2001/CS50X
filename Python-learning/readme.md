@@ -222,4 +222,8 @@ define once => call it as many times as you need
 
 <br>
 
+# Dictionaries
+ map arbitrary keys to values
+=>  key:value
+
 ![return](./img/return.png)

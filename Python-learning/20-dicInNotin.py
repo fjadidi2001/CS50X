@@ -6,3 +6,5 @@ nums = {
 print(1 in nums)
 print("three" in nums)
 print(4 not in nums)
+if 1 in nums:
+    print('yeah')

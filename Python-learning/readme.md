@@ -167,6 +167,7 @@ Indexing also works with strings. You can use indexing to access individual char
 
 list => mutable
 string => immutable
+tuple => immutable
 
 <br>
 Both lists and strings are Python sequences. Which means that their content is ordered.
@@ -222,8 +223,14 @@ define once => call it as many times as you need
 
 <br>
 
+![return](./img/return.png)
+
 # Dictionaries
  map arbitrary keys to values
 =>  key:value
+=> This means that you can use strings, integers, booleans, and any other immutable type as dictionary keys.
 
-![return](./img/return.png)
+# Tuple
+
+![tuple](./img/tuple.png)
+

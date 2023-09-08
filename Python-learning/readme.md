@@ -237,3 +237,7 @@ define once => call it as many times as you need
 <br>
 
 **Tuples can be created without the parentheses by just separating the values with commas.**
+
+## Tuple unpacking 
+allows you to assign each item in a collection to a variable.
+

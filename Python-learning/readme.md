@@ -240,4 +240,13 @@ define once => call it as many times as you need
 
 ## Tuple unpacking 
 allows you to assign each item in a collection to a variable.
+<br>
 
+```
+numbers = (1, 2, 3)
+a, b, c = numbers
+print(a)
+print(b)
+print(c)
+
+```

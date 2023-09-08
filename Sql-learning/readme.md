@@ -32,3 +32,8 @@ is a visual representation of how a database is organized, showing its tables, f
 
 <br>
 The * symbol allows you to select all the fields in a table
+
+
+<br>
+
+comments

@@ -22,3 +22,7 @@ Unstructured data is information that is difficult to store in tables.
 
 ![relational](./img/relational.png)
 
+The different tables in a relational database connect to each other using fields (columns) with values in common. These fields are called keys.
+
+<br>
+

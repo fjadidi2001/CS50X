@@ -36,4 +36,5 @@ The * symbol allows you to select all the fields in a table
 
 <br>
 
-comments => --
+comments => -- => one line
+            /* */ => multiple line

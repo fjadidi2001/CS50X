@@ -38,3 +38,24 @@ The * symbol allows you to select all the fields in a table
 
 comments => -- => one line
             /* */ => multiple line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+A data table is filled with values. There are different types of values.
+

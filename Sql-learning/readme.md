@@ -59,3 +59,9 @@ comments => -- => one line
 <br>
 A data table is filled with values. There are different types of values.
 
+```
+
+SELECT name, price+delivery AS TOTAL
+FROM sales
+
+```

@@ -11,3 +11,14 @@ SQL code is used to send requests to a database. These requests are known as que
 
 The SELECT command is used to extract field data from a table․
 
+<br>
+
+## structured data
+Data that can be stored in tables
+
+<br>
+
+Unstructured data is information that is difficult to store in tables.
+
+
+

@@ -20,5 +20,5 @@ Data that can be stored in tables
 
 Unstructured data is information that is difficult to store in tables.
 
-
+![relational](./img/relational.png)
 

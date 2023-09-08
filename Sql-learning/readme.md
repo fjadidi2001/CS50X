@@ -8,3 +8,6 @@ SQL code is used to send requests to a database. These requests are known as que
 <br>
 
 ![sql](./img/sql.png)
+
+The SELECT command is used to extract field data from a table․
+

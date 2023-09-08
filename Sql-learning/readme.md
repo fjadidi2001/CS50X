@@ -26,3 +26,9 @@ The different tables in a relational database connect to each other using fields
 
 <br>
 
+database schema:
+<br>
+is a visual representation of how a database is organized, showing its tables, fields and keys. Arrows are used to show how the different tables are related.
+
+<br>
+The * symbol allows you to select all the fields in a table

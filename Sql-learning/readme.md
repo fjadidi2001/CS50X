@@ -65,3 +65,6 @@ SELECT name, price+delivery AS TOTAL
 FROM sales
 
 ```
+
+<br>
+Concatenation joins strings together => CONCAT

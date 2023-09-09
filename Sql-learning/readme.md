@@ -186,3 +186,9 @@ FROM movies;
 
   - COUNT() 
     It counts the number of records
+  - SUM()
+     produces the total sum of the values in a numerical field.
+  - AVG()
+
+<br>
+**When running queries that involve different operations, filtering happens first.**

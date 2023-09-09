@@ -87,6 +87,18 @@ The % special symbol is known as a wildcard and is used to create patterns.
 
 The % wildcard can be used in any part of the pattern and as many times as needed.
 
+<br>
+
+```
+SELECT column_1, column_2,...column_n
+
+FROM table_name
+
+WHERE column_1 LIKE [pattern];
+```
 
 
+<br>
+
+Wildcard symbols such as % and _ are used to find patterns in strings with the commands…
 

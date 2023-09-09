@@ -164,3 +164,22 @@ WHERE year > 2000;
 
   - The not equal operator <> can be used with both numbers and string values.
 
+## aggregation operations
+
+  - MIN()
+  - MAX()
+
+```
+/*
+Extracts the highest value in the year field 
+*/
+SELECT MAX(year)
+FROM movies;
+
+/*
+Extracts the lowest value in the year field 
+*/
+SELECT MIN(year)
+FROM movies;
+
+```

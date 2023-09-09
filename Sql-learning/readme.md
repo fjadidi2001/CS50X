@@ -68,3 +68,10 @@ FROM sales
 
 <br>
 Concatenation joins strings together => CONCAT
+
+<br>
+WHERE is used to extract records that meet a condition.
+
+<br>
+A comparison operation always results in one of these two outcomes: Yes (True) or No (False)
+

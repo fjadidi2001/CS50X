@@ -75,3 +75,18 @@ WHERE is used to extract records that meet a condition.
 <br>
 A comparison operation always results in one of these two outcomes: Yes (True) or No (False)
 
+<br>
+The LIKE keyword is used with the WHERE command to search for patterns in string values.
+<br>
+The % symbol can replace any number of characters (one, multiple or none) in a string to create patterns.
+<br>
+
+The % special symbol is known as a wildcard and is used to create patterns. 
+
+<br>
+
+The % wildcard can be used in any part of the pattern and as many times as needed.
+
+
+
+

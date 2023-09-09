@@ -140,3 +140,27 @@ WHERE code LIKE 'A_B_';
 
 used to convert strings to lower or uppercase.
 
+## conditions
+
+```
+/*
+Shows if the records meet 
+or don’t meet the condition
+true (t) or false (f)
+*/
+SELECT year, year > 2000 AS result
+FROM movies;
+
+/*
+Filtering query that extracts
+only the records that make
+the condition true
+*/
+SELECT title
+FROM movies
+WHERE year > 2000;
+
+```
+
+  - The not equal operator <> can be used with both numbers and string values.
+

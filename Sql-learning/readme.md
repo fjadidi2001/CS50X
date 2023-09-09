@@ -192,3 +192,7 @@ FROM movies;
 
 <br>
 **When running queries that involve different operations, filtering happens first.**
+
+<br>
+Aggregation operations are usually referred to as aggregation functions. A function includes the code that is required to perform a task.
+

@@ -102,3 +102,15 @@ WHERE column_1 LIKE [pattern];
 
 Wildcard symbols such as % and _ are used to find patterns in strings with the commands…
 
+<br>
+You can include multiple queries in your SQL code. You just need to separate them with a semicolon(;)
+
+```
+SELECT name, code
+FROM products;
+
+SELECT name
+FROM products
+WHERE code LIKE 'A_B_';
+
+```

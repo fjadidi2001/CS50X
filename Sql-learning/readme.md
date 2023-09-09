@@ -183,3 +183,6 @@ SELECT MIN(year)
 FROM movies;
 
 ```
+
+  - COUNT() 
+    It counts the number of records

@@ -81,3 +81,13 @@ left, right, center, justify.
 height of each line of text.
 <br>
 height of each line of text.
+
+
+### Letter & Word Spacing 
+
+```
+.intro {
+  letter-spacing: 3px;
+  word-spacing: 3px;
+} 
+```

@@ -15,11 +15,14 @@ We can also target elements based on their location.
 Not all styles are inherited, like the width and other similar layout properties.
 <br>
 
-# color 
+# property
+### color 
  1. Hex => #
  2.RGB
  3. name of color
 
-# font size
+### font size
     1. em
     2. px
+### font-family
+ web safe fonts and include: Arial, Courier New, Georgia, Times New Roman, Trebuchet MS, Verdana.

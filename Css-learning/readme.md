@@ -36,4 +36,13 @@ Not all styles are inherited, like the width and other similar layout properties
  <br>
 
  ### font-weight 
+    - bold
+You can also define the font weight with a number from 100 (thin) to 900 (thick). 400 is the same as normal, and 700 is the same as bold.
+
+### text-transform 
+    - uppercase: Transforms the text to capitals.
+
+    - lowercase: Transforms the text to lower case.
+
+    - capitalize: Transforms all words to have the first letter capitalized.
 

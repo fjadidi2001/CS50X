@@ -50,6 +50,10 @@ A lot of data lives on the Internet. Servers are computers that are always liste
 
 **so use database, api, web scraping for collecting data.**
 
+## Data grouping
+powerful tool when working with large datasets. Grouping allows you to collect and see data in a new way, to answer more complex questions.
+
+
 
 ## *
 

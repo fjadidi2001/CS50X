@@ -317,3 +317,10 @@ FROM movies
 WHERE is_oscar_winner = False;
 
 ```
+
+
+# making sense of data
+
+Data queries are incredibly useful for extracting insights from data and answering questions.
+
+![insights](./img/insight.png)

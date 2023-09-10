@@ -306,3 +306,14 @@ WHERE genre IS NOT NULL
 
 Filtering out missing data is one way to deal with incomplete data. Different approaches are used depending on where the data is coming from or the type of analysis that you need to perform.
 
+## incorrect format
+Data comes in different shapes and forms. Data in the incorrect format can cause issues.
+
+booleans:<br>
+
+```
+SELECT id, title, is_oscar_winner
+FROM movies
+WHERE is_oscar_winner = False;
+
+```

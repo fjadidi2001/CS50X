@@ -275,6 +275,11 @@ FROM employees
 ### DISTINCT
 Duplicated data can significantly impact the quality and accuracy of your analysis. Use DISTINCT to eliminate duplicate values
 
+```
+SELECT DISTINCT subject
+FROM teachers
+```
+
 ## missing data
 another common data quality issue
 <br>

@@ -234,3 +234,7 @@ GROUP BY genre;
 SELECT *
 FROM movies;
 ```
+
+
+> You can combine **GROUP BY** with **WHERE** filters. Data is filtered first, then grouped.
+

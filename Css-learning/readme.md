@@ -75,3 +75,9 @@ h1 {
 
 ### text-align
 left, right, center, justify.
+
+
+### line-height
+height of each line of text.
+<br>
+height of each line of text.

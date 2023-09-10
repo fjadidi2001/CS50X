@@ -11,3 +11,6 @@ You can have only one element with the same id on the page, while the class valu
 
 We can also target elements based on their location.
 
+<br>
+Not all styles are inherited, like the width and other similar layout properties.
+

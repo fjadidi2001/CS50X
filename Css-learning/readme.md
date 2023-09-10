@@ -13,4 +13,13 @@ We can also target elements based on their location.
 
 <br>
 Not all styles are inherited, like the width and other similar layout properties.
+<br>
 
+# color 
+ 1. Hex => #
+ 2.RGB
+ 3. name of color
+
+# font size
+    1. em
+    2. px

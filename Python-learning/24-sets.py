@@ -17,3 +17,6 @@ print(nums)
 nums.add(-7)
 nums.remove(3)
 print(nums)
+
+# The len() function can be used to return the number of elements of a set.
+

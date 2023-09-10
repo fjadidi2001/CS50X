@@ -4,8 +4,12 @@
   background-color: yellow;
 } 
 
-
+ /* create selectors based on the id attribute of elements. */
 #intro {
   color: red;
   background-color: yellow;
-}  
+} 
+
+li strong {
+  color: purple;
+} 

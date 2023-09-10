@@ -66,8 +66,12 @@ h1 {
 
     - The first value is the horizontal offset of the shadow.
 
-The second value - the vertical offset.
+    - The second value - the vertical offset.
 
-The third value is the blur radius: a higher value means the shadow is dispersed more widely.
+    - The third value is the blur radius: a higher value means the shadow is dispersed more widely.
 
-The last one is the color of the shadow.
+    - The last one is the color of the shadow.
+
+
+### text-align
+left, right, center, justify.

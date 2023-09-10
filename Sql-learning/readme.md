@@ -297,3 +297,7 @@ SELECT *
 FROM movies 
 WHERE genre IS NOT NULL
 ```
+
+
+Filtering out missing data is one way to deal with incomplete data. Different approaches are used depending on where the data is coming from or the type of analysis that you need to perform.
+

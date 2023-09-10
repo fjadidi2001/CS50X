@@ -324,3 +324,10 @@ WHERE is_oscar_winner = False;
 Data queries are incredibly useful for extracting insights from data and answering questions.
 
 ![insights](./img/insight.png)
+
+## logical operations
+```
+SELECT title
+FROM books
+WHERE qty >= 5 AND year > 1950
+```

@@ -272,3 +272,6 @@ HAVING COUNT(id) > 1;
 SELECT *
 FROM employees
 ```
+## DISTINCT
+Duplicated data can significantly impact the quality and accuracy of your analysis. Use DISTINCT to eliminate duplicate values
+

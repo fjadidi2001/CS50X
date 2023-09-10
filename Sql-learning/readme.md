@@ -247,3 +247,12 @@ FROM movies
 GROUP BY genre
 HAVING AVG(budget) > 50;
 ```
+
+<br>
+
+where:<br>
+- data is filtered first, then grouped
+<br>
+having:<br>
+- data is grouped first, then filtered
+

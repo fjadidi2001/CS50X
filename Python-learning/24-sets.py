@@ -32,3 +32,7 @@ print(first ^ second)
 skills = {'Python', 'HTML', 'SQL', 'C++', 'Java', 'Scala'}
 job_skills = {'HTML', 'CSS', 'JS', 'C#', 'NodeJS'}
 print(*(skills & job_skills))
+
+a = {1, 2, 3}
+b = {0, 3, 4, 5}
+print(a & b)

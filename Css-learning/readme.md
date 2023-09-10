@@ -55,3 +55,19 @@ You can also define the font weight with a number from 100 (thin) to 900 (thick)
 
     - line-through: puts a strikethrough over the text.
 
+### text-shadow 
+
+```
+h1 {
+  text-shadow: 3px 2px 3px red;
+} 
+```
+
+
+    - The first value is the horizontal offset of the shadow.
+
+The second value - the vertical offset.
+
+The third value is the blur radius: a higher value means the shadow is dispersed more widely.
+
+The last one is the color of the shadow.

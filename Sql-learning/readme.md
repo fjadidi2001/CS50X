@@ -238,3 +238,12 @@ FROM movies;
 
 > You can combine **GROUP BY** with **WHERE** filters. Data is filtered first, then grouped.
 
+## HAVING 
+filter data that has been grouped.
+
+```
+SELECT genre, AVG(budget)
+FROM movies
+GROUP BY genre
+HAVING AVG(budget) > 50;
+```

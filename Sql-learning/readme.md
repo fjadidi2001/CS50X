@@ -35,6 +35,21 @@ The different tables in a relational database connect to each other using fields
 is a visual representation of how a database is organized, showing its tables, fields and keys. Arrows are used to show how the different tables are related.
 
 <br>
+information is included in the schema =>
+  - filed names
+  - keys
+  - table name
+
+
+## API(Application Programming Interface)
+A lot of data lives on the Internet. Servers are computers that are always listening for requests of information. You can request information from a database server through an API.
+
+
+## Web scraping
+ extract information from websites. 
+
+**so use database, api, web scraping for collecting data.
+
 
 ## *
 

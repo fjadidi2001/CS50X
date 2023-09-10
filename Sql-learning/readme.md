@@ -275,3 +275,9 @@ FROM employees
 ## DISTINCT
 Duplicated data can significantly impact the quality and accuracy of your analysis. Use DISTINCT to eliminate duplicate values
 
+```
+/* DISTINCT is used before 
+the field we want to extract */
+SELECT DISTINCT name
+FROM employees;
+```

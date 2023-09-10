@@ -41,17 +41,6 @@ information is included in the schema =>
   - table name
 
 
-## API(Application Programming Interface)
-A lot of data lives on the Internet. Servers are computers that are always listening for requests of information. You can request information from a database server through an API.
-
-
-## Web scraping
- extract information from websites. 
-
-**so use database, api, web scraping for collecting data.**
-
-## Data grouping
-powerful tool when working with large datasets. Grouping allows you to collect and see data in a new way, to answer more complex questions.
 
 
 
@@ -215,3 +204,16 @@ FROM movies;
 <br>
 Aggregation operations are usually referred to as aggregation functions. A function includes the code that is required to perform a task.
 
+
+
+## API(Application Programming Interface)
+A lot of data lives on the Internet. Servers are computers that are always listening for requests of information. You can request information from a database server through an API.
+
+
+## Web scraping
+ extract information from websites. 
+
+**so use database, api, web scraping for collecting data.**
+
+## Data grouping
+powerful tool when working with large datasets. Grouping allows you to collect and see data in a new way, to answer more complex questions.

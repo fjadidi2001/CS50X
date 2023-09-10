@@ -272,12 +272,14 @@ HAVING COUNT(id) > 1;
 SELECT *
 FROM employees
 ```
-## DISTINCT
+### DISTINCT
 Duplicated data can significantly impact the quality and accuracy of your analysis. Use DISTINCT to eliminate duplicate values
 
-```
-/* DISTINCT is used before 
-the field we want to extract */
-SELECT DISTINCT name
-FROM employees;
-```
+## missing data
+another common data quality issue
+<br>
+NULL is used to indicate that a data value is missing and does not exist in the database. NULL values are not shown in result tables.
+
+<br>
+You can check if your data contains missing values. Use IS NULL in combination with WHERE to find missing values
+

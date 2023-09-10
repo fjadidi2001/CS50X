@@ -217,3 +217,20 @@ A lot of data lives on the Internet. Servers are computers that are always liste
 
 ## Data grouping
 powerful tool when working with large datasets. Grouping allows you to collect and see data in a new way, to answer more complex questions.
+
+
+## GROUP BY
+
+allows you to organize similar data into categories
+
+
+```
+/*Groups records by genre and 
+calculates the average budget for each group*/
+SELECT genre, AVG(budget)
+FROM movies
+GROUP BY genre;
+
+SELECT *
+FROM movies;
+```

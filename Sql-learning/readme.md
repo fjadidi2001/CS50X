@@ -283,3 +283,8 @@ NULL is used to indicate that a data value is missing and does not exist in the 
 <br>
 You can check if your data contains missing values. Use IS NULL in combination with WHERE to find missing values
 
+```
+SELECT * 
+FROM movies 
+WHERE genre IS NULL
+```

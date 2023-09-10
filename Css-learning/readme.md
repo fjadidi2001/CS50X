@@ -46,3 +46,12 @@ You can also define the font weight with a number from 100 (thin) to 900 (thick)
 
     - capitalize: Transforms all words to have the first letter capitalized.
 
+### text-decoration 
+    - none: removes any decoration.
+
+    - underline: underlines the text.
+
+    - overline: gives the text an overline.
+
+    - line-through: puts a strikethrough over the text.
+

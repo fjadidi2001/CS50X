@@ -331,3 +331,6 @@ SELECT title
 FROM books
 WHERE qty >= 5 AND year > 1950
 ```
+
+> The last step of the data analysis process is communicating your findings. This is where your communication skills will come in handy. At this stage, data visualization and data storytelling will help you turn data insights into actions.
+

@@ -48,7 +48,7 @@ A lot of data lives on the Internet. Servers are computers that are always liste
 ## Web scraping
  extract information from websites. 
 
-**so use database, api, web scraping for collecting data.
+**so use database, api, web scraping for collecting data.**
 
 
 ## *

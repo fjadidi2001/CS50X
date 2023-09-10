@@ -26,3 +26,5 @@ Not all styles are inherited, like the width and other similar layout properties
     2. px
 ### font-family
  web safe fonts and include: Arial, Courier New, Georgia, Times New Roman, Trebuchet MS, Verdana.
+
+ **If the font name consists of multiple words, it has to be in quotes.**

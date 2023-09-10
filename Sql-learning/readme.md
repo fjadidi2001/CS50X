@@ -256,3 +256,19 @@ where:<br>
 having:<br>
 - data is grouped first, then filtered
 
+# cleaning data
+data can come to you with quality issues.
+## duplicated data
+copies of the same data
+
+--checking for id duplicates
+
+```
+SELECT id, COUNT(id)
+FROM employees
+GROUP BY id
+HAVING COUNT(id) > 1;
+
+SELECT *
+FROM employees
+```

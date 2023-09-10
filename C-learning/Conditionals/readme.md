@@ -1,5 +1,6 @@
 
-There are six relational operators that can be used to form a Boolean expression, which returns true or false:
+## relational operators
+ that can be used to form a Boolean expression, which returns true or false:
 <br>
 
 1. <    less than
@@ -26,6 +27,7 @@ in C, you cannot compare strings using the == operator directly. You need to use
 ### Conditional Expressions 
 <br>
 
+## ?:
 Another way to form an if-else statement is by using the ?: operator in a conditional expression. The ?: operator can have only one statement associated with the if and the else.
 
 <br>

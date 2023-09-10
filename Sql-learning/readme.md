@@ -288,3 +288,12 @@ SELECT *
 FROM movies 
 WHERE genre IS NULL
 ```
+<br>
+
+Similarly, you can extract non-null values using IS NOT NULL. This will filter null values out.
+
+```
+SELECT * 
+FROM movies 
+WHERE genre IS NOT NULL
+```

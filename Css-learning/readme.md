@@ -9,3 +9,5 @@ CSS allows you to target elements using selectors, which allows you to target sp
 <br>
 You can have only one element with the same id on the page, while the class value can be used multiple times.
 
+We can also target elements based on their location.
+

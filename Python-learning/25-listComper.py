@@ -8,6 +8,9 @@ evens=[i**2 for i in range(10) if i**2 % 2 == 0]
 print(evens)
 
 word = input()
-vowels = "a", "e", "i", "o", "u"
+word = list(word)
+vowels = ["a", "e", "i", "o", "u"]
 
-out = [ print(str(i)) for i in range(len(word)) if vowels in word]
+out = [i for i in word if not i in vowels]
+
+print(out)

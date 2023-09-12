@@ -1,5 +1,5 @@
 ## array
-is a data structure that stores a collection of related values that are all the same type
+is a data structure that stores a collection of related values that are all the **same type**
 
 <br>
 An array is stored in contiguous memory locations and cannot change size after being declared.
@@ -9,7 +9,7 @@ An array is stored in contiguous memory locations and cannot change size after b
 # Accessing Array Elements 
 The contents of an array are called elements with each element accessible by an index number. 
 <br>
-The value of an array element can be changed through an assignment statement, which also requires using the array name and index:
+The value of an array element can be changed through an assignment statement, which also requires using the array name and index.
 
 
 <br>

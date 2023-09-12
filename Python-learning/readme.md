@@ -273,3 +273,9 @@ When to use the other types:
 
 A key part of functional programming is higher-order functions. Higher-order functions take other functions as arguments, or return them as results.
 
+# pure function
+Pure functions have no side effects, and return a value that depends only on their arguments.
+
+- Always produces the same output for the same input (deterministic).
+
+- Does not have any side effects, meaning it does not modify external state or variables.

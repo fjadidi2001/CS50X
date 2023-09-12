@@ -14,3 +14,6 @@ vowels = ["a", "e", "i", "o", "u"]
 out = [i for i in word if not i in vowels]
 
 print(out)
+
+nums = (55, 44, 33, 22)
+print(max(min(nums[:2]), abs(-42)))

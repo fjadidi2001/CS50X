@@ -31,3 +31,10 @@ The apply_twice function applied the add_five function twice to the initial argu
 """
 
 
+def test(func, arg):
+  return func(func(arg))
+
+def mult(x):
+  return x * x
+
+print(test(mult, 2))

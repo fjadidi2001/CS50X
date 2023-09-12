@@ -266,3 +266,10 @@ When to use the other types:
 - Use a set if you need uniqueness for the elements. 
 
 - Use tuples when your data cannot/should not change.
+
+
+
+# Functional programming
+
+A key part of functional programming is higher-order functions. Higher-order functions take other functions as arguments, or return them as results.
+

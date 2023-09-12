@@ -91,3 +91,17 @@ height of each line of text.
   word-spacing: 3px;
 } 
 ```
+
+
+
+
+
+<br>
+
+
+
+**VIP**
+
+<br>
+
+![box](./img/boxModel.png)

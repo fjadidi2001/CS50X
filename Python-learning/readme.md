@@ -287,3 +287,5 @@ Pure functions have no side effects, and return a value that depends only on the
 # Map
 The built-in functions map and filter are very useful higher-order functions that operate on lists (or similar objects called iterables). 
 
+## filter 
+The function filter filters an iterable by leaving only the items that match a condition (also called a predicate).

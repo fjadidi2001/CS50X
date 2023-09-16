@@ -279,3 +279,11 @@ Pure functions have no side effects, and return a value that depends only on the
 - Always produces the same output for the same input (deterministic).
 
 - Does not have any side effects, meaning it does not modify external state or variables.
+
+
+
+<br>
+
+# Map
+The built-in functions map and filter are very useful higher-order functions that operate on lists (or similar objects called iterables). 
+

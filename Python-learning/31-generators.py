@@ -1,5 +1,5 @@
 def countdown():
-  i=5
+  i = 5
   while i > 0:
     yield i
     i -= 1

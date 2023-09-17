@@ -7,7 +7,6 @@ def countdown():
 for i in countdown():
   print(i)
 
-
 def numbers(x):
   for i in range(x):
     if i % 2 == 0:

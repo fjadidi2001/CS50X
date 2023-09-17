@@ -289,3 +289,11 @@ The built-in functions map and filter are very useful higher-order functions tha
 
 ## filter 
 The function filter filters an iterable by leaving only the items that match a condition (also called a predicate).
+ 
+
+## Generators
+Generators are a type of iterable, like lists or tuples. 
+<br>
+Unlike lists, they don't allow indexing with arbitrary indices, but they can still be iterated through with for loops. 
+<br>
+They can be created using functions and the yield statement.

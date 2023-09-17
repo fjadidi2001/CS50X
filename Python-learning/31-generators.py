@@ -8,17 +8,6 @@ for i in countdown():
   print(i)
 
 
-
-def get_primes():
-  num = 2
-  while True:
-    if is_prime(num):
-      yield num
-    num += 1
-
-
-
-
 def numbers(x):
   for i in range(x):
     if i % 2 == 0:

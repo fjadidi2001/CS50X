@@ -308,3 +308,6 @@ In Python, a generator is like that cookie jar. It's a way to create a sequence 
 
 Now, the yield keyword is like the magic hand that takes out cookies from the jar. When you use yield in a function, it's like temporarily pausing that function and giving you a cookie (or a value) from the sequence. But here's the cool part: the function remembers where it left off, like a bookmark in a book, so when you ask for the next value, it continues from there.
 
+## Decorators 
+Decorators provide a way to modify functions using other functions. 
+

@@ -310,4 +310,6 @@ Now, the yield keyword is like the magic hand that takes out cookies from the ja
 
 ## Decorators 
 Decorators provide a way to modify functions using other functions. 
+<br>
+Python provides support to wrap a function in a decorator by pre-pending the function definition with a decorator name and the @ symbol.
 

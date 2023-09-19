@@ -1,6 +1,7 @@
 def make_word():
-    word = ""
-    for i in "fateme":
-        word += i
-        yield word
+    zarf = ""
+    word2 = str(input())
+    for i in word2:
+        zarf += i
+        yield zarf
 print(list(make_word()))

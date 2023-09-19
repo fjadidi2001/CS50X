@@ -297,3 +297,14 @@ Generators are a type of iterable, like lists or tuples.
 Unlike lists, they don't allow indexing with arbitrary indices, but they can still be iterated through with for loops. 
 <br>
 They can be created using functions and the yield statement.
+
+
+
+<br>
+
+> Imagine you have a big jar of cookies, but you don't want to take out all the cookies at once because you might not have enough space to hold them all. Instead, you want to take out one cookie at a time and eat it. This way, you only need a small plate to hold the cookies.
+
+In Python, a generator is like that cookie jar. It's a way to create a sequence of values, but it doesn't generate all of them at once. It generates them one at a time, only when you need them, just like taking out one cookie at a time.
+
+Now, the yield keyword is like the magic hand that takes out cookies from the jar. When you use yield in a function, it's like temporarily pausing that function and giving you a cookie (or a value) from the sequence. But here's the cool part: the function remembers where it left off, like a bookmark in a book, so when you ask for the next value, it continues from there.
+

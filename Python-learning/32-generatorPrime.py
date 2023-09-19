@@ -9,9 +9,9 @@ def isPrime(x):
     return True
 
 def primeGenerator(a, b):
-    # your code goes here
     for i in range(a,b):
-        yield a,b
+        if isPrime(i):
+            yield i
     
 f = int(input())
 t = int(input())

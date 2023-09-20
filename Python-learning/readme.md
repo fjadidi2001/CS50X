@@ -273,7 +273,7 @@ When to use the other types:
 
 A key part of functional programming is higher-order functions. Higher-order functions take other functions as arguments, or return them as results.
 
-# pure function
+1. pure function
 Pure functions have no side effects, and return a value that depends only on their arguments.
 
 - Always produces the same output for the same input (deterministic).
@@ -284,14 +284,14 @@ Pure functions have no side effects, and return a value that depends only on the
 
 <br>
 
-# Map
+2. Map
 The built-in functions map and filter are very useful higher-order functions that operate on lists (or similar objects called iterables). 
 
-## filter 
+3. filter 
 The function filter filters an iterable by leaving only the items that match a condition (also called a predicate).
  
 
-## Generators
+4. Generators
 Generators are a type of iterable, like lists or tuples. 
 <br>
 Unlike lists, they don't allow indexing with arbitrary indices, but they can still be iterated through with for loops. 
@@ -308,8 +308,13 @@ In Python, a generator is like that cookie jar. It's a way to create a sequence 
 
 Now, the yield keyword is like the magic hand that takes out cookies from the jar. When you use yield in a function, it's like temporarily pausing that function and giving you a cookie (or a value) from the sequence. But here's the cool part: the function remembers where it left off, like a bookmark in a book, so when you ask for the next value, it continues from there.
 
-## Decorators 
+5. Decorators 
 Decorators provide a way to modify functions using other functions. 
 <br>
 Python provides support to wrap a function in a decorator by pre-pending the function definition with a decorator name and the @ symbol.
 
+6. Recursion
+
+> The fundamental part of recursion is self-reference -- functions calling themselves. It is used to solve problems that can be broken up into easier sub-problems of the same type.
+
+like factorial

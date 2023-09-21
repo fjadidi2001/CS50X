@@ -318,3 +318,15 @@ Python provides support to wrap a function in a decorator by pre-pending the fun
 > The fundamental part of recursion is self-reference -- functions calling themselves. It is used to solve problems that can be broken up into easier sub-problems of the same type.
 
 like factorial
+
+
+
+### *args
+
+**varying numbers of arguments**
+
+<br>
+Using *args as a function parameter enables you to pass an arbitrary number of arguments to that function. The arguments are then accessible as the tuple args in the body of the function.
+<br>
+The name args is just a convention; you can choose to use another.
+

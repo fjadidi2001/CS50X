@@ -56,9 +56,15 @@ The * symbol allows you to select all the fields in a table
             /* */ => multiple line
 
 
+<br>
+
+What information is included in the schema?
 
 
+- keys
+- table names
 
+- A schema doesn't show the number of records in the tables of a database.
 
 
 

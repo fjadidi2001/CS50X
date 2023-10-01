@@ -200,6 +200,14 @@ Multiple arguments in a function are separated with a comma ,
 
 <br>
 
+## Inputs and Outputs
+An input is any information that goes into a computer.
+<br>
+The press of a key and the click of a button are examples of inputs.
+<br>
+the video captured from a camera that is connected to a computer is another example of input
+
+
 ## string function
 
 > The find() function checks if a character (or a pattern of characters) is present in a string. The function returns the index (position) of the given value. If the given value is present multiple times, the function will return the first occurrence (the lowest index).

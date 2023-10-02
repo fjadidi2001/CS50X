@@ -26,6 +26,20 @@ Computers use binary code to represent information. By turning switches ON and O
 
 ![logical](./img/logical.png)
 <br>
+
+
+## Inputs and Outputs
+An input is any information that goes into a computer.
+<br>
+The press of a key and the click of a button are examples of inputs.
+<br>
+the video captured from a camera that is connected to a computer is another example of input
+<br>
+An output is a way for the computer to communicate with the outside world. A message displayed on the screen and the sound from a speaker and a document coming out of a printer
+ are examples of outputs.
+
+<br>
+
 The Boolean is a data type that only has two possible values: True or False.
 <br>
 
@@ -200,17 +214,7 @@ Multiple arguments in a function are separated with a comma ,
 
 <br>
 
-## Inputs and Outputs
-An input is any information that goes into a computer.
-<br>
-The press of a key and the click of a button are examples of inputs.
-<br>
-the video captured from a camera that is connected to a computer is another example of input
-<br>
-An output is a way for the computer to communicate with the outside world. A message displayed on the screen and the sound from a speaker and a document coming out of a printer
- are examples of outputs.
 
-<br>
 
 
 
@@ -231,6 +235,12 @@ An output is a way for the computer to communicate with the outside world. A mes
 1. Reusable block of code
 2. performs a task
 3. only runs when called
+4. A function can take multiple arguments.
+
+## built-in function
+- print() => accepts arguments of any data type
+- range()
+- type()
 ## custom function
 define once => call it as many times as you need
 

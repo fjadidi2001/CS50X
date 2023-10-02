@@ -241,6 +241,9 @@ Multiple arguments in a function are separated with a comma ,
 - print() => accepts arguments of any data type
 - range() => accepts only integers
 - type()  => A function can be an argument for another function.
+- int(), str(), and float() instructions are functions used for data conversion.
+
+
 ## custom function
 define once => call it as many times as you need
 

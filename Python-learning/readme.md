@@ -239,8 +239,8 @@ Multiple arguments in a function are separated with a comma ,
 
 ## built-in function
 - print() => accepts arguments of any data type
-- range()
-- type()
+- range() => accepts only integers
+- type()  => A function can be an argument for another function.
 ## custom function
 define once => call it as many times as you need
 

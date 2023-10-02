@@ -206,6 +206,12 @@ An input is any information that goes into a computer.
 The press of a key and the click of a button are examples of inputs.
 <br>
 the video captured from a camera that is connected to a computer is another example of input
+<br>
+An output is a way for the computer to communicate with the outside world. A message displayed on the screen and the sound from a speaker and a document coming out of a printer
+ are examples of outputs.
+
+<br>
+
 
 
 ## string function

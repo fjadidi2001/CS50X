@@ -219,6 +219,8 @@ Multiple arguments in a function are separated with a comma ,
 
 
 ## string function
+- upper()
+- lower()
 
 > The find() function checks if a character (or a pattern of characters) is present in a string. The function returns the index (position) of the given value. If the given value is present multiple times, the function will return the first occurrence (the lowest index).
 
@@ -252,10 +254,21 @@ define once => call it as many times as you need
 
 ![return](./img/return.png)
 
+
+
+
+
+
+
+<be>
+
+built in collection type(for store multiple values) :
+1. list => store indexed values
+2. dictionary => map arnitary keys to values
+
 # Dictionaries
- map arbitrary keys to values
 =>  key:value
-=> This means that you can use strings, integers, booleans, and any other immutable type as dictionary keys.
+ This means that you can use strings, integers, booleans, and any other immutable type as dictionary keys.
 
 # Tuple
 

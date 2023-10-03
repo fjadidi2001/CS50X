@@ -260,7 +260,7 @@ define once => call it as many times as you need
 
 
 
-<be>
+<br>
 
 built in collection type(for store multiple values) :
 1. list => store indexed values
@@ -269,6 +269,9 @@ built in collection type(for store multiple values) :
 # Dictionaries
 =>  key:value
  This means that you can use strings, integers, booleans, and any other immutable type as dictionary keys.
+
+
+ **key is in a dictionary, you can use in and not in**
 
 # Tuple
 

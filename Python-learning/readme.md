@@ -272,14 +272,18 @@ built in collection type(for store multiple values) :
 
 
  **key is in a dictionary, you can use in and not in**
-
+ 
+  get()=>same thing as indexing key not found return specified value
 # Tuple
-
+like list but immutable
 ![tuple](./img/tuple.png)
 
 <br>
 
 **Tuples can be created without the parentheses by just separating the values with commas.**
+why we use tuple?<br>
+Tuples are faster than lists, but they cannot be changed.
+
 
 ## Tuple unpacking 
 allows you to assign each item in a collection to a variable.
@@ -295,6 +299,16 @@ print(c)
 ```
 <br>
 
+# sets
+
+similar to list ot dictionary
+- unordered
+- faster than list
+- cannot contain duplicate elements
+- use add() for adding new item
+- use remove() to delete a element
+- use len() to return num of element
+- combined using mathematical operations
 
 When to use a dictionary:
 - When you need a logical association between a key:value pair.

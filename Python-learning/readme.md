@@ -325,6 +325,9 @@ When to use the other types:
 - Use tuples when your data cannot/should not change.
 
 
+## List Comprehensions
+A list comprehension can also contain an if statement to enforce a condition on values in the list.
+
 
 # Functional programming
 

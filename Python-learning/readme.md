@@ -331,7 +331,8 @@ A list comprehension can also contain an if statement to enforce a condition on 
 
 # Functional programming
 
-A key part of functional programming is higher-order functions. Higher-order functions take other functions as arguments, or return them as results.
+A key part of functional programming is higher-order functions.
+Higher-order functions take other functions as arguments, or return them as results.
 
 1. pure function
 Pure functions have no side effects, and return a value that depends only on their arguments.
